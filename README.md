@@ -8,8 +8,9 @@ wnw36@msstate.edu
 
 
 ### Education
-M.S. Mississippi State University
-B.S. Mississippi State University
+M.S. Chemical Engineering, Mississippi State University, Mississippi State, MS, 2023
+B.S. Chemical Engineering with a Computer Science Minor, Mississippi State University, Mississippi State, MS, 2020
+
 
 ### Skills
 Fluent in Python
