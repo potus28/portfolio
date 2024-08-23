@@ -8,8 +8,8 @@ wnw36@msstate.edu
 
 
 ### Education
-M.S. Chemical Engineering, Mississippi State University, Mississippi State, MS, 2023
-B.S. Chemical Engineering with a Computer Science Minor, Mississippi State University, Mississippi State, MS, 2020
+M.S. Chemical Engineering | Mississippi State University (_May 2023_)
+B.S. Chemical Engineering with a Computer Science Minor | Mississippi State University (_May 2020_)
 
 
 ### Skills
