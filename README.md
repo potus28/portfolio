@@ -3,12 +3,11 @@
 Graduate Research Assisstant
 Dave C. Swalm School of Chemical Engineering & Center for Advanced Vehicular Systems
 Mississippi State University, Mississippi State, MS, 39762
-wnw36@msstate.edu
-
 
 
 ### Education
-- M.S. Chemical Engineering | Mississippi State University (_May 2023_)
+- PhD Chemical Engineering | Mississippi State University (_Expected August 2025_)
+- M.S. Chemical Engineering | Mississippi State University (_May 2022_)
 - B.S. Chemical Engineering with a Computer Science Minor | Mississippi State University (_May 2020_)
 
 
@@ -27,4 +26,6 @@ wnw36@msstate.edu
 - Experience with C++ and Modern Fortran
 
 ### Contact
-- Email: 
+- Email: wnw36@msstate.edu | woodywilson001@yahoo.com
+- [Linkedin](www.linkedin.com/in/woodrow-wilson-980490199)
+- [Github](https://github.com/potus28)
