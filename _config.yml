@@ -1,5 +1,6 @@
 title: Woodrow N. Wilson
 logo: ProfesionalHeadshot.jpg
 show_downloads: false
+markdown: GFM
 # theme options at https://pages.github.com/themes/
 theme: jekyll-theme-hacker
