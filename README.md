@@ -1,6 +1,8 @@
 # Computational Scientist
 Graduate Research Assisstant
+
 Dave C. Swalm School of Chemical Engineering & Center for Advanced Vehicular Systems
+
 Mississippi State University, Mississippi State, MS, 39762
 
 ### Education
