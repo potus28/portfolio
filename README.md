@@ -22,17 +22,17 @@ My current work involves modeling condensed phase catalysis in Lewis acid zeolit
 - [Direct synthesis of furfuryl alcohol from furfural: catalytic performance of monometallic and bimetallic Mo and Ru phosphides](https://doi.org/10.1039/C9CY00705A)
 
 ### Molecular Simulation Skills
-| Method              | Software | 
-| :--------------------------------- | :------------: | 
-| Ab initio Molecular Dynamics       |         CP2K   | 
-| Quantum Chemistry                  |   Gaussian16   |
-| Periodic Density Funcitonal Theory |  VASP          | 
-| Classical Molecular Dynamics       |       LAMMPS   | 
-| Classical Monte Carlo              |   Cassandra    | 
-| Workflow Tools                     | ASE and MoSDeF |
-| Machine Learned Interatomic Potentials | MACE, FLARE, NequIP, Allegro | 
-| Reactive MD with Machine Learned Potentials | ASE and LAMMPS |
-| Visualization  |   VMD  |
+| Method                             | Software | 
+| :--------------------------------- | :----------------------------: | 
+| Ab initio Molecular Dynamics       |         CP2K                   | 
+| Quantum Chemistry                  |   Gaussian16                   |
+| Periodic Density Funcitonal Theory |  VASP                          | 
+| Classical Molecular Dynamics       |       LAMMPS                   | 
+| Classical Monte Carlo              |   Cassandra                    | 
+| Workflow Tools                     | ASE and MoSDeF                 |
+| MLIP Development                   | MACE, FLARE, NequIP, Allegro   | 
+| Reactive MD with MLIPs             | ASE and LAMMPS                 |
+| Visualization                      |   VMD                          |
 
 ### Programming Experience
 - Fluent in Python
