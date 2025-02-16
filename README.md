@@ -5,6 +5,10 @@ Dave C. Swalm School of Chemical Engineering & Center for Advanced Vehicular Sys
 
 Mississippi State University, Mississippi State, MS, 39762
 
+
+### Current Work
+My current work involves modeling condensed phase catalysis in Lewis acid zeolites invesigating how different solvents interact with either by adsorbtion or dissociation and diffuse around the active sites. I also am actively developing a Python library that integrates Monte Carlo subroutines in the Atomic Simulation Environment. Both projects are expected to have manuscripts submitted in the coming months.
+
 ### Education
 - Ph.D. Chemical Engineering | Mississippi State University (_Expected August 2025_)
 - M.S. Chemical Engineering | Mississippi State University (_May 2022_)
@@ -16,7 +20,6 @@ Mississippi State University, Mississippi State, MS, 39762
 - [Insights into Sorption and Molecular Transport of Aqueous Glucose into Zeolite Nanopores](https://doi.org/10.1021/acs.jpcb.1c10572)
 - [Solvation effect on binding modes of model lignin dimer compounds on MWW 2D-zeolite](https://doi.org/10.1063/1.5112101)
 - [Direct synthesis of furfuryl alcohol from furfural: catalytic performance of monometallic and bimetallic Mo and Ru phosphides](https://doi.org/10.1039/C9CY00705A)
-
 
 ### Molecular Simulation Skills
 | Method              | Software | 
