@@ -6,7 +6,7 @@ Mississippi State University, Mississippi State, MS, 39762
 
 
 ### Education
-- PhD Chemical Engineering | Mississippi State University (_Expected August 2025_)
+- Ph.D. Chemical Engineering | Mississippi State University (_Expected August 2025_)
 - M.S. Chemical Engineering | Mississippi State University (_May 2022_)
 - B.S. Chemical Engineering with a Computer Science Minor | Mississippi State University (_May 2020_)
 
