@@ -14,7 +14,7 @@ Mississippi State University, Mississippi State, MS, 39762
 - [Nature of molybdenum carbide surfaces for catalytic hydrogen dissociation using machine-learned potentials: an ensemble-averaged perspective](https://doi.org/10.1039/D4CY01202J)
   
 
-<img src="assets/img/MACE-Mo2C-H2.png" alt="drawing" width="5in"/>
+<img src="assets/img/MACE-Mo2C-H2.png" alt="drawing" width="600"/>
 
 
 
