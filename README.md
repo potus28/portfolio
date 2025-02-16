@@ -1,5 +1,4 @@
 # Computational Scientist
-
 Graduate Research Assisstant
 Dave C. Swalm School of Chemical Engineering & Center for Advanced Vehicular Systems
 Mississippi State University, Mississippi State, MS, 39762
@@ -28,11 +27,12 @@ Mississippi State University, Mississippi State, MS, 39762
 | Workflow Tools                     | ASE and MoSDeF |
 | Machine Learned Interatomic Potentials | MACE, FLARE, NequIP, Allegro | 
 | Reactive MD with Machine Learned Potentials | ASE and LAMMPS |
-| Visualization  |   VMD and iRASPA |
+| Visualization  |   VMD  |
 
 ### Programming Experience
 - Fluent in Python
 - Experience with C++ and Modern Fortran
+- Proficient in Linux
 
 ### Contact
 - [Personal Email](woodywilson001@yahoo.com) (Preferred)
