@@ -11,7 +11,7 @@ Mississippi State University, Mississippi State, MS, 39762
 - B.S. Chemical Engineering with a Computer Science Minor | Mississippi State University (_May 2020_)
 
 ### Publications
-- [Nature of molybdenum carbide surfaces for catalytic hydrogen dissociation using machine-learned potentials: an ensemble-averaged perspective](DOI	https://doi.org/10.1039/D4CY01202J)
+- [Nature of molybdenum carbide surfaces for catalytic hydrogen dissociation using machine-learned potentials: an ensemble-averaged perspective](https://doi.org/10.1039/D4CY01202J)
 ![MACE_Mo2C_H2](https://github.com/potus28/portfolio/tree/main/assets/img/MACE-Mo2C-H2.png)
 
 
